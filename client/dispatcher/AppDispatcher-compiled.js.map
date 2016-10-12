@@ -1,0 +1,1 @@
+{"version":3,"sources":["AppDispatcher.js"],"names":[],"mappings":";;;;;;oBAA2B,MAAM;;qBAElB,sBAAgB","file":"AppDispatcher-compiled.js","sourcesContent":["import { Dispatcher } from 'flux';\n\nexport default new Dispatcher();"]}
